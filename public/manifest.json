@@ -1,0 +1,11 @@
+{
+  "name": "سودان-بريدج | SudanBridge",
+  "short_name": "SudanBridge",
+  "description": "منصة التسوق الدولي الميسر للسودان",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#059669",
+  "dir": "rtl",
+  "lang": "ar"
+}
